@@ -1,0 +1,37 @@
+x x x x x x x x x x x x x x x x x x x
+                                     
+x       o                   o       x
+                                     
+x   x x x   x   x x x   x   x x x   x
+                                     
+x   x   x   x           x   x   x   x
+                                     
+x   x x x   x   x   x   x   x x x   x
+                                     
+x       o   x   x   x   x   o       x
+                                     
+x   x x x x x   x   x   x x x x x   x
+                                     
+x   x   o                   o   x   x
+                                     
+x   x   x x x x x   x x x x x   x   x
+                                     
+x             B B B B r             x
+                                     
+x   x x x x x   x x x   x x x x x   x
+                                     
+x       o       x   x       o       x
+                                     
+x   x x x   x   x x x   x   x x x   x
+                                     
+x   x   x   x           x   x   x   x
+                                     
+x   x x x   x   x x x   x   x x x   x
+                                     
+x       o   x   x   x   x   o       x
+                                     
+x   x x x x x   x x x   x x x x x   x
+                                     
+x                                   x
+                                     
+x x x x x x x x x x x x x x x x x x x
